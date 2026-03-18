@@ -1,5 +1,6 @@
+<!-- eslint-disable no-undef -->
 <script lang="ts">
-	/* global GeoJSON */
+	/* eslint-disable no-undef */
 	import { onMount } from 'svelte';
 
 	import DOMPurify from 'isomorphic-dompurify';
