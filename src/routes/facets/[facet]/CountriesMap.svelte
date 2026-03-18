@@ -1,4 +1,5 @@
 <script lang="ts">
+	/* global GeoJSON */
 	import { onMount } from 'svelte';
 
 	import DOMPurify from 'isomorphic-dompurify';
